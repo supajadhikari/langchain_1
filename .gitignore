@@ -1,17 +1,5 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Secret files (API keys, etc.)
 .env
-
-# Virtual Environments (if you create one later, e.g., .venv or venv)
 venv/
-.venv/
 env/
-
-# IDE settings
 .vscode/
-.idea/
